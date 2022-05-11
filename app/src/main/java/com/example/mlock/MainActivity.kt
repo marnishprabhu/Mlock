@@ -13,9 +13,13 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    fun add(){
+    fun add1(){
         println("Adding two numbers")
         println("error add branch")
         println("Problem Solved")
+    }
+
+    fun sub(){
+
     }
 }

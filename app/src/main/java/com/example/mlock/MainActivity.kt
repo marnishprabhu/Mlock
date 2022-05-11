@@ -12,6 +12,10 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: ")
     }
 
+    fun cased(){
+
+    }
+
 
     fun add1(){
         println("Adding two numbers")

@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     fun add(){
         println("Adding two numbers")
-        println("Master")
+        println("error add branch")
+        println("Problem Solved")
     }
 }
